@@ -1,4 +1,7 @@
 **free
 CTL-OPT DFTNAME(ILE30R);
 DSPLY 'THIS IS THIRD MESSAGE FROM ILUSR001';
+exsr sub01;
 RETURN;
+begsr sub01;
+endsr;
