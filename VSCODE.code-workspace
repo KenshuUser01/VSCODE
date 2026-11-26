@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Kenshu-git",
+			"path": "../VSCODE-Git/Kenshu-git"
 		}
 	],
 	"settings": {}
